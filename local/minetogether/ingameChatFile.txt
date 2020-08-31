@@ -1,3 +1,0 @@
-#
-#Sun Aug 23 19:36:34 CEST 2020
-ingameChat=false
